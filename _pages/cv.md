@@ -54,9 +54,9 @@ nav: true
 
 <h4>skills & techniques</h4>
 
-
-
 <button data-toggle="collapse" data-target="#lab" class="accordion"><i class="fas fa-vials"></i>&nbsp; laboratory</button>
+
+
 <div id="lab" class="collapse" style="font-size:12px;">
 
 <div class="row">
@@ -85,7 +85,11 @@ nav: true
 </div>
 </div> 
 
+<br> 
+
 <button data-toggle="collapse" data-target="#code" class="accordion"><i class="fas fa-laptop-code"></i>&nbsp; analysis/code</button>
+
+
 <div id="code" class="collapse" style="font-size:12px;">
 
 <div class="row">
@@ -113,7 +117,10 @@ nav: true
 
 </div> 
 
+<br>
+
 <button data-toggle="collapse" data-target="#sci" class="accordion"><i class="far fa-comment-alt"></i>&nbsp; scicomm/other</button>
+
 <div id="sci" class="collapse"  style="font-size:12px;">
 
 <div class="row">
@@ -138,6 +145,5 @@ nav: true
 </div>
 
 </div> 
-
 
 <script src="{{ '/assets/js/accordion.js' | relative_url }}"></script>

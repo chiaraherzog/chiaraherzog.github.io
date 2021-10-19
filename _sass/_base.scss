@@ -204,7 +204,7 @@ blockquote {
 .social {
   text-align: center;
   .contact-icons {
-    font-size: 4rem;
+    font-size: 1.5rem;
     a {
       i::before {
         color: var(--global-text-color);
@@ -516,4 +516,44 @@ html.transition *:before,
 html.transition *:after {
   transition: all 750ms !important;
   transition-delay: 0 !important;
+}
+
+// Button
+
+.button{
+  background-color: var(--global-theme-color);
+  color: white;
+  text-transform: uppercase;
+  border: 0px;
+  -webkit-transition: all 0.2s ease-in-out;
+  border-radius: 25px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 30px;
+  padding-right: 30px; 
+  letter-spacing: 4px;
+  font-style: normal;
+  font-size: 14px;
+  &:hover {
+    background-color: var(--global-hover-color);
+  }
+}
+
+.accordion{
+  background-color: var(--global-theme-color);
+  color: white;
+  text-transform: uppercase;
+  border: 0px;
+  -webkit-transition: all 0.2s ease-in-out;
+  border-radius: 25px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 30px;
+  padding-right: 30px; 
+  letter-spacing: 4px;
+  font-style: normal;
+  font-size: 14px;
+  &:hover {
+    background-color: var(--global-hover-color);
+  }
 }
