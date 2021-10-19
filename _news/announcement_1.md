@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2021-04-07 10:00
 inline: true
 ---
 
-A simple inline announcement.
+TirolGESUND recruitment has started. :sparkles:

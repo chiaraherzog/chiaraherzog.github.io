@@ -1,79 +1,35 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: /assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
-category: work
+title: live imaging of tbi
+description: live imaging of early tissue reactions to traumatic brain injury (tbi) in zebrafish
+img: /assets/img/calcium.gif
+importance: 2
+category: past
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+TBI poses a significant socio-economic burden and currently there are no clinical therapeutics for it. In contrast to mammals, zebrafish are able to efficiently repair their central nervous system: after a spinal cord injury, adult fish regain full swimming activity within 6 weeks; likewise, brain injuries are rapidly resolved in zebrafish and functional integration of newborn neurons occurs.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Several wound healing paradigms have revealed that the early phase after an injury is critical for later regenerative and reparative success. For instance, an early calcium wave instructs neighbouring cells to initiate the wound repair process. We hypothesised that this may also happen in the brain. I developed a novel brain injury model in optically transparent larval zebrafish. Using fluorescent genetic reporter lines for calcium (to assess calcium waves and neuronal activity), nuclei (to assess tissue architecture) and microglia/macrophages (to assess immune recruitment), I found that:
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+* larval zebrafish are able to repair brain injuries within 2 days
+* injury elicits an early calcium wave followed by persistent neuronal activity
+  + the early calcium wave is important for later recovery, while the latter mimicks excitotoxicity in the mammalian brain and contributes to secondary neuronal cell death
+* microglia/macrophages are recruited to the injury rapidly and phagocytose dead cells
+* if phagocytosis of dead cells is disrupted genetically or pharmacologically after an injury, secondary cell death is exacerbated
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/1.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/3.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/5.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-</div>
+Thus, the results of this project suggest a neuroprotective role for early phagocytosis of dead cells after an injury, which we hypothesized may help to shift microglia/macrophages to a pro-regenerative phenotype (see <a href="/projects/2_project/" target="_blank">follow-up project</a>).
+
+<center>
+<img src="/assets/img/calcium.gif" width="90%" class="img-fluid rounded z-depth-1">
+</center>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/5.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+  Traumatic brain injury leads to an immediate calcium wave (green) in the brain and  persistently increased neuronal activity.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
+This work is featured in:
 
+<div class="publications">
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/6.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/11.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
+  {% bibliography -f papers -q @*[selected=true]* %}
+  
 </div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/6.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/11.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-</div>
-```

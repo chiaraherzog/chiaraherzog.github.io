@@ -2,23 +2,40 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: <a href="http://www.eutops.info" target="_blank">Universität Innsbruck</a> • <a href="http://www.ucl.ac.uk"" target="_blank">University College London<br></a>
+              <div style="font-size:15px;"><b>Postdoc with a background in molecular medicine working on epigenetics, cellular ageing, and disease prevention. Particularly interested in the immune system.</b></div>
+              
+              
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: chiara_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<br>
+<br>
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+<h2>about</h2>
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I'm a translational scientist at the intersection of bioinformatics, laboratory, and clinical resarch at the European Translational Oncology Prevention and Screening Institute (<a href="http://www.eutops.info" target = "_blank">EUTOPS</a>; Universität Innsbruck) and the Institute for Women's Health (University College London).
+
+My work focuses on analysis of <b>methylation</b> and <b>DNA mutation</b> data in relation to cancer risk, ageing, and inflammation. I am currently co-leading the clinical <a href="/projects/1_project/">TirolGESUND</a> study with <a href="https://eutops.institute/institute/leadership" target="_blank">Prof. Martin Widschwendter</a> (UIBK, UCL, Karolinska) assessing longitudinal changes in the epigenome and ageing biomarkers in response to smoking cessation and intermittent fasting.
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-3 mt-3 mt-md-0">
+    <a href="/projects" target="_blank">
+<button class="button">Projects</button></a>
+</div>
+
+  <div class="col-sm-9 mt-3 mt-md-0">
+<a href="/_pages/cv/"><button class="button">Vitae</button></a>
+</div>
+</div>
+
+<br>
+<br>
