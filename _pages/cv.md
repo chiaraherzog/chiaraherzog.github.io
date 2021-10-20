@@ -36,7 +36,7 @@ nav: true
 
 <table width="90%">
         <tr style="vertical-align:top;padding-bottom:30px;">
-        <td width="15%" style="text-align:top; padding-bottom:30px">Apr 2020</td>
+        <td width="15%" style="text-align:top; padding-bottom:30px">Apr 2019</td>
         <td width="55%"><b>Ph.D. in Neuroscience</b>, <a href="http://www.ed.ac.uk" target="_blank">University of Edinburgh</a>
         <br>Supervisors: Dr. Leah Herrgen and Prof. Catherina Becker</td>
         </tr>
