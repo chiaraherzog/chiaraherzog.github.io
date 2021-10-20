@@ -95,11 +95,11 @@ nav: true
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-      <b>R</b><br>
+      <b>R/general bioinformatics</b><br>
       <progress value="80" max="100" style="color: green"></progress><br>
       RNA-seq analysis<br>
       DNA methylation analysis<br>
-      Bioconductor<br>
+      DNA mutation analysis & variant calling<br>
     </div>
     <div class="col-sm mt-3 mt-md-0">
         <b>Matlab</b><br>
@@ -108,10 +108,10 @@ nav: true
     </div>
     <div class="col-sm mt-3 mt-md-0">
         <b>Python</b><br>
-        <progress value="10" max="100" style="color: green"></progress><br>
+        <progress value="20" max="100" style="color: green"></progress><br>
         just learning :)<br><br>
-        <b>Bash</b><br>
-        <progress value="10" max="100" style="color: green"></progress><br>
+        <b>Bash/</b><br>
+        <progress value="25" max="100" style="color: green"></progress><br>
     </div>
 </div>
 
@@ -128,9 +128,8 @@ nav: true
     <div class="col-sm mt-3 mt-md-0">
       <b>Scicomm</b><br>
       <progress value="55" max="100" style="color: green"></progress><br><br>
-      <b>Adobe Creative Suit</b><br>
+      <b>Adobe Creative Suite</b><br>
       <progress value="85" max="100" style="color: green"></progress><br>
-      Photoshop<br>
       Illustrator<br>
       InDesign<br>
       Premiere Pro<br>
@@ -141,7 +140,7 @@ nav: true
     </div>
     <div class="col-sm mt-3 mt-md-0">
         <b>HTML/CSS</b><br>
-        <progress value="60" max="100" style="color: green"></progress><br>
+        <progress value="50" max="100" style="color: green"></progress><br>
     </div>
 </div>
 
