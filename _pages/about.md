@@ -33,7 +33,7 @@ My work focuses on analysis of <b>methylation</b> and <b>DNA mutation</b> data i
 </div>
 
   <div class="col-sm-9 mt-3 mt-md-0">
-<a href="/_pages/cv/"><button class="button">Vitae</button></a>
+<a href="/cv/"><button class="button">Vitae</button></a>
 </div>
 </div>
 

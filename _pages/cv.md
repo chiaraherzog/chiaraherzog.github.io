@@ -1,6 +1,7 @@
 ---
 layout: page
 title: cv
+permalink: /cv/
 description: find my full CV <b><a href="/assets/pdf/cv_herzog.pdf" target="_blank"><font color="#a758b8">here</font></a></b>
 nav: true
 ---
