@@ -32,6 +32,13 @@ Interested? We’re looking for team members from all areas of science (and arts
 We're closely working with other Pint of Science teams in Austria so other national aspects such as Pint of Science Austria treasury, funding, and social media will be up for grabs as well.
  
 About me: Pint of Science city coordinator for Innsbruck, Chiara, helped to establish Pint of Science in Edinburgh (Scotland) during her PhD. There she learned about the importance and fun of sci-comm and now wants to bring the event to Innsbruck.
+
+<center>
+<a href="https://forms.gle/VaJN9QvELwKob4H39" target="_blank">
+<button class="button">Sign-up sheet</button></a></center>
+
+<br>
  
-Please get in touch via chiara.herzog (at) uibk.ac.at or twitter ([@chiara_herzog](https://www.twitter.com/chiaraherzog)). Looking forward to hearing from you.
- 
+If you're interested, please sign up [here](https://forms.gle/VaJN9QvELwKob4H39) or get in touch via chiara.herzog (at) uibk.ac.at or twitter ([@chiara_herzog](https://www.twitter.com/chiara_herzog)). I'll get you added to our Slack channel and invite you to our first meeting in December. :)
+
+Looking forward to hearing from you.
