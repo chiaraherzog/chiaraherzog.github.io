@@ -4,7 +4,7 @@ title: pint of science 2017
 description: team leader at Edinburgh Pint of Science 2017
 img: /assets/img/pos17.jpg
 redirect: 
-importance: 1
+importance: 2
 category: events
 ---
 

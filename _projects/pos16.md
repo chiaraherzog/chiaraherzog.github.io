@@ -4,7 +4,7 @@ title: pint of science 2016
 description: events coordinator of Edinburgh Pint of Science 2016
 img: /assets/img/euscinews-6.jpg
 redirect: 
-importance: 2
+importance: 3
 category: events
 ---
 

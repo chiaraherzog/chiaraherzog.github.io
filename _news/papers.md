@@ -7,7 +7,7 @@ inline: false
 
 :tada: :tada: :tada: 
 
-Really excited to announce that my first author paper, looking at DNA methylation in cervical screening samples to detect/risk predict breast cancer, was published in Nature Communications today: [The WID-BC-index identifies women with primary poor prognostic breast cancer based on DNA methylation in cervical samples](https://www.nature.com/articles/s41467-021-27918-w).
+Really excited to announce that my joint-first author paper, looking at DNA methylation in cervical screening samples to detect/risk predict breast cancer, was published in Nature Communications today: [The WID-BC-index identifies women with primary poor prognostic breast cancer based on DNA methylation in cervical samples](https://www.nature.com/articles/s41467-021-27918-w).
 
 It's part of two papers from our group appearing in Nature Communications today, where we describe the potential of cervical screening samples for individualised risk prediction and detection of [breast](https://www.nature.com/articles/s41467-021-27918-w) and [ovarian cancer](https://www.nature.com/articles/s41467-021-27918-w).
 
