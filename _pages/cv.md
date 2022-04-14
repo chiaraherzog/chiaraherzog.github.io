@@ -96,7 +96,7 @@ nav: true
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
       <b>R/general bioinformatics</b><br>
-      <progress value="80" max="100" style="color: green"></progress><br>
+      <progress value="90" max="100" style="color: green"></progress><br>
       RNA-seq analysis<br>
       DNA methylation analysis<br>
       DNA mutation analysis & variant calling<br>
@@ -110,8 +110,8 @@ nav: true
         <b>Python</b><br>
         <progress value="20" max="100" style="color: green"></progress><br>
         just learning :)<br><br>
-        <b>Bash/</b><br>
-        <progress value="25" max="100" style="color: green"></progress><br>
+        <b>Bash</b><br>
+        <progress value="50" max="100" style="color: green"></progress><br>
     </div>
 </div>
 

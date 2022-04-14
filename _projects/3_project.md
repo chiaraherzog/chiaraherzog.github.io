@@ -30,6 +30,6 @@ This work is featured in:
 
 <div class="publications">
 
-  {% bibliography -f papers -q @*[selected=true]* %}
+  {% bibliography -f papers -q @*[year=2019]* %}
   
 </div>
