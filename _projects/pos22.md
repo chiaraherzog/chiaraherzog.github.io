@@ -8,4 +8,7 @@ importance: 1
 category: events
 ---
 
-Currently leading the Innsbruck team for Pint of Science 2022. Stay tuned for updates and exciting events!
+I was city coordinator for #pint22 in Innsbruck. 
+I was lucky to work with a fantastic team of volunteers and together we organised and hosted 15 events (14 of which were sold out :tada:) in 5 bars and cafes in Innsbruck.
+
+Stay tuned for exciting events next year :)
