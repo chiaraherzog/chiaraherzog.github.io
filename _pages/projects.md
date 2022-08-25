@@ -6,6 +6,7 @@ description: past and present work
 nav: true
 display_categories: [ongoing, past]
 horizontal: false
+nav-order: 3
 ---
 <div class="projects">
   {% if site.enable_project_categories and page.display_categories %}

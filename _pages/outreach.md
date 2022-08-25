@@ -6,6 +6,7 @@ description: science writing and public engagement
 nav: true
 display_categories: [events, writing]
 horizontal: false
+nav-order: 6
 ---
 <div class="projects">
   {% if site.enable_project_categories and page.display_categories %}

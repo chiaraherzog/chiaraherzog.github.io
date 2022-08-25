@@ -2,9 +2,11 @@
 layout: page
 title: cv
 permalink: /cv/
-description: find my full CV <b><a href="/assets/pdf/cv_herzog.pdf" target="_blank"><font color="#a758b8">here</font></a></b>
+description: 
 nav: true
 ---
+
+find my full CV <b><a href="/assets/pdf/cv_herzog.pdf" target="_blank"><font color="#a758b8">here</font></a></b> (may not be up to date)
 
 <h2>short cv</h2>
 
