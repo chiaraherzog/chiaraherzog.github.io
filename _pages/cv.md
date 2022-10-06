@@ -98,10 +98,11 @@ find my full CV <b><a href="/assets/pdf/cv_herzog.pdf" target="_blank"><font col
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
       <b>R/general bioinformatics</b><br>
-      <progress value="90" max="100" style="color: green"></progress><br>
+      <progress value="92" max="100" style="color: green"></progress><br>
       RNA-seq analysis<br>
       DNA methylation analysis<br>
       DNA mutation analysis & variant calling<br>
+      package development<br>
     </div>
     <div class="col-sm mt-3 mt-md-0">
         <b>Matlab</b><br>
