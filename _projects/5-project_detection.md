@@ -15,5 +15,7 @@ Aspects of this work - both for prediction and detection - are published in:
   
   {% bibliography -f papers -q @*[journal=Journal of Clinical Oncology]* %}
   {% bibliography -f papers -q @*[journal=Nature Communications]* %}
-  
+  {% bibliography -f papers -q @*[abbr=widcin] %}
+  {% bibliography -f papers -q @*[abbr=IJC-hall]* %}
+
 </div>
