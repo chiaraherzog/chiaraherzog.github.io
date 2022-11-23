@@ -17,5 +17,6 @@ Aspects of this work - both for prediction and detection - are published in:
   {% bibliography -f papers -q @*[journal=Nature Communications]* %}
   {% bibliography -f papers -q @*[abbr=widcin] %}
   {% bibliography -f papers -q @*[abbr=IJC-hall]* %}
+  {% bibliography -f papers -q @*[abbr=widqcin]* %}
 
 </div>
