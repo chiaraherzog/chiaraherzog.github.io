@@ -24,4 +24,4 @@ I'm co-leading the TirolGESUND (general exercise - smoking undone - nutrition & 
     The TirolGESUND study aims to elucidate further whether regular exercise, intermittent fasting, and/or smoking cessation can help to reduce age- and disease-related markers.
 </div>
 
-Find out more about the TirolGESUND study on the <a href="http://www.eutops.info/for-participants/tirolgesund" target="_blank">EUTOPS website</a>. 
+Analysis of the TirolGESUND study is ongoing and results are expected in 2023.

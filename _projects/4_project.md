@@ -13,5 +13,6 @@ As part of the Human Exposome Assessment Platform (<a href="https://heap-exposom
 
   {% bibliography -f papers -q @*[abbr=CRF]* %}
   {% bibliography -f papers -q @*[journal=Genome Biology]* %}
+  {% bibliography -f papers -q @*[abbr=HPV]* %}
   
 </div>

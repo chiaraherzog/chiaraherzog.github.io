@@ -8,7 +8,7 @@ description:
 
 profile:
   align: right
-  image: chiara_pic.jpg
+  image: chiara.jpg
   address: >
 
 news: true  # includes a list of news items
@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 <h2>about</h2>
 
-I'm a translational scientist at the intersection of bioinformatics, laboratory, and clinical resarch at the European Translational Oncology Prevention and Screening Institute (<a href="http://www.eutops.info" target = "_blank">EUTOPS</a>; Universität Innsbruck) and the Institute for Women's Health (University College London).
+I'm a translational scientist at the intersection of bioinformatics and clinical resarch at the European Translational Oncology Prevention and Screening Institute (<a href="http://www.eutops.info" target = "_blank">EUTOPS</a>; Universität Innsbruck) and a honorary research fellow at the Institute for Women's Health (University College London).
 
 My work focuses on DNA methylation and its association with cancer risk and ageing. I am currently co-leading the clinical <a href="/projects/1_project/">TirolGESUND</a> study with <a href="https://eutops.institute/institute/leadership" target="_blank">Prof. Martin Widschwendter</a> (UIBK, UCL, Karolinska) assessing longitudinal changes in the epigenome and other ageing biomarkers in response to smoking cessation and intermittent fasting.
 
