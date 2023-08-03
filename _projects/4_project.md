@@ -9,10 +9,12 @@ category: ongoing
 
 As part of the Human Exposome Assessment Platform (<a href="https://heap-exposome.eu/work-packages/" target="_blank">HEAP</a>) Horizon 2020 programme, I am investigating the impact of various environmental factors such as age, smoking, diet, or viral infections, on DNA methylation patterns.
 
+Publications include:
+
 <div class="publications">
 
-  {% bibliography -f papers -q @*[abbr=CRF]* %}
-  {% bibliography -f papers -q @*[journal=Genome Biology]* %}
   {% bibliography -f papers -q @*[abbr=HPV]* %}
-  
+  {% bibliography -f papers -q @*[journal=Genome Biology]* %}
+  {% bibliography -f papers -q @*[abbr=CRF]* %}
+
 </div>

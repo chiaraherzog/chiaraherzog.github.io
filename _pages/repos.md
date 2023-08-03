@@ -2,12 +2,15 @@
 layout: page
 title: repos
 permalink: /repos/
-description: 
+description: tools for DNA methylation analysis and epigenetics
 nav: true
 display_categories: [packages]
 horizontal: false
-nav-order: 5
+nav_order: 5
 ---
+
+
+
 <div class="projects">
   {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->

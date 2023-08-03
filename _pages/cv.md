@@ -4,6 +4,7 @@ title: cv
 permalink: /cv/
 description: 
 nav: true
+nav-order: 2
 ---
 
 find my full CV <b><a href="/assets/pdf/cv_herzog.pdf" target="_blank"><font color="#a758b8">here</font></a></b> (may not be up to date)
@@ -57,8 +58,47 @@ find my full CV <b><a href="/assets/pdf/cv_herzog.pdf" target="_blank"><font col
 
 <h4>skills & techniques</h4>
 
-<button data-toggle="collapse" data-target="#lab" class="accordion"><i class="fas fa-vials"></i>&nbsp; laboratory</button>
+<button data-toggle="collapse" data-target="#code" class="accordion"><i class="fas fa-laptop-code"></i>&nbsp; analysis/code</button>
 
+
+<div id="code" class="collapse" style="font-size:12px;">
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+      <b>computational biology (mainly R)</b><br>
+      <progress value="92" max="100" style="color: green"></progress><br>
+      DNA methylation analysis, based on array or sequencing data<br>
+      DNA mutation analysis & variant calling<br>
+      RNA-seq analysis<br>
+      package development<br>
+      data visualisation<br>
+      long read seq data (learning)<br>
+    </div>
+
+<div class="col-sm mt-3 mt-md-0">
+    <b>statistics and epidemiology</b><br>
+    <progress value="85" max="100" style="color:green"></progress><br>
+    study design<br>
+    diagnostic evaluation studies<br>
+    interested in learning more about: causal inference, modelling; public health and determinants of health
+</div>
+    <div class="col-sm mt-3 mt-md-0">
+        <b>Matlab</b><br>
+        <progress value="30" max="100" style="color: green"></progress><br>
+        Calcium imaging analysis<br><br>
+        <b>Python</b><br>
+        <progress value="30" max="100" style="color: green"></progress><br>
+        just learning :)<br><br>
+        <b>Bash</b><br>
+        <progress value="50" max="100" style="color: green"></progress><br>
+    </div>
+</div>
+
+</div>
+
+<br>  
+
+<button data-toggle="collapse" data-target="#lab" class="accordion"><i class="fas fa-vials"></i>&nbsp; laboratory</button>
 
 <div id="lab" class="collapse" style="font-size:12px;">
 
@@ -88,49 +128,18 @@ find my full CV <b><a href="/assets/pdf/cv_herzog.pdf" target="_blank"><font col
 </div>
 </div> 
 
-<br> 
-
-<button data-toggle="collapse" data-target="#code" class="accordion"><i class="fas fa-laptop-code"></i>&nbsp; analysis/code</button>
-
-
-<div id="code" class="collapse" style="font-size:12px;">
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-      <b>R/general bioinformatics</b><br>
-      <progress value="92" max="100" style="color: green"></progress><br>
-      RNA-seq analysis<br>
-      DNA methylation analysis<br>
-      DNA mutation analysis & variant calling<br>
-      package development<br>
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        <b>Matlab</b><br>
-        <progress value="30" max="100" style="color: green"></progress><br>
-        Calcium imaging analysis
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        <b>Python</b><br>
-        <progress value="20" max="100" style="color: green"></progress><br>
-        just learning :)<br><br>
-        <b>Bash</b><br>
-        <progress value="50" max="100" style="color: green"></progress><br>
-    </div>
-</div>
-
-
-</div> 
-
 <br>
 
-<button data-toggle="collapse" data-target="#sci" class="accordion"><i class="far fa-comment-alt"></i>&nbsp; scicomm/other</button>
+<button data-toggle="collapse" data-target="#sci" class="accordion"><i class="far fa-comment-alt"></i>&nbsp;other</button>
 
 <div id="sci" class="collapse"  style="font-size:12px;">
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
       <b>Scicomm</b><br>
-      <progress value="55" max="100" style="color: green"></progress><br><br>
+      <progress value="75" max="100" style="color: green"></progress><br><br>
+      <b>FAIR data</b><br>
+      <progress value="70" max="100" style="color: green"></progress><br><br>
       <b>Adobe Creative Suite</b><br>
       <progress value="85" max="100" style="color: green"></progress><br>
       Illustrator<br>
@@ -148,5 +157,12 @@ find my full CV <b><a href="/assets/pdf/cv_herzog.pdf" target="_blank"><font col
 </div>
 
 </div> 
+
+
+
+
+
+<br>
+
 
 <script src="{{ '/assets/js/accordion.js' | relative_url }}"></script>

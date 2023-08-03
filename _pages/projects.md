@@ -8,6 +8,9 @@ display_categories: [ongoing, past]
 horizontal: false
 nav-order: 3
 ---
+
+below is a list of ongoing or past projects i've been involved in.
+
 <div class="projects">
   {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->

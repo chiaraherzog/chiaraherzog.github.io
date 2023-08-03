@@ -6,8 +6,12 @@ description: science writing and public engagement
 nav: true
 display_categories: [events, writing]
 horizontal: false
-nav-order: 6
+nav_order: 7
 ---
+
+i have a keen interest in science communcation, outreach, and education. i believe science shouldn't just be for experts - it affects everyone! 
+
+
 <div class="projects">
   {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
