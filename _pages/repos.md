@@ -1,7 +1,7 @@
 ---
 layout: page
-title: repos
-permalink: /repos/
+title: tools
+permalink: /tools/
 description: tools for DNA methylation analysis and epigenetics
 nav: true
 display_categories: [packages]
