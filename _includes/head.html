@@ -36,3 +36,56 @@
     <script src="{{ '/assets/js/theme.js' | relative_url | bust_file_cache }}"></script>
     <script src="{{ '/assets/js/dark_mode.js' | relative_url | bust_file_cache }}"></script>
     {% endif %}
+
+    
+<!-- diff2html -->
+{% if page.code_diff %}
+  <link
+    defer
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/highlight.js@{{ site.highlightjs.version }}/styles/github.min.css"
+    integrity="{{ site.highlightjs.integrity.css.light }}"
+    crossorigin="anonymous"
+    media="screen and (prefers-color-scheme: light)"
+  >
+  <link
+    defer
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/highlight.js@{{ site.highlightjs.version }}/styles/github-dark.min.css"
+    integrity="{{ site.highlightjs.integrity.css.dark }}"
+    crossorigin="anonymous"
+    media="screen and (prefers-color-scheme: dark)"
+  >
+  <link
+    defer
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/diff2html@{{ site.diff2html.version }}/bundles/css/diff2html.min.css"
+    integrity="{{ site.diff2html.integrity.css }}"
+    crossorigin="anonymous"
+  >
+{% endif %}
+
+{% if page.images %}
+  <!-- Image comparison slider -->
+  {% if page.images.compare %}
+    <link
+      defer
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/img-comparison-slider@{{ site.img-comparison-slider.version }}/dist/styles.min.css"
+    >
+  {% endif %}
+  <!-- Image slider -->
+  {% if page.images.slider %}
+    <link
+      defer
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/swiper@{{ site.swiper.version }}/swiper-bundle.min.css"
+      integrity="{{ site.swiper.integrity.css }}"
+      crossorigin="anonymous"
+    >
+  {% endif %}
+{% endif %}
+
+{% if page.tikzjax %}
+  <link defer rel="stylesheet" type="text/css" href="https://tikzjax.com/v1/fonts.css">
+{% endif %}

@@ -1104,3 +1104,9 @@ nav[data-toggle="toc"] {
     background-color: var(--global-hover-color);
   }
 }
+
+swiper-container {
+  --swiper-navigation-color: var(--global-theme-color);
+  --swiper-pagination-color: var(--global-theme-color);
+  --swiper-pagination-bullet-inactive-color: var(--global-text-color);
+}
