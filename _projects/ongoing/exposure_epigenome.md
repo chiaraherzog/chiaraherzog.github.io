@@ -12,7 +12,7 @@ I am investigating the impact of various environmental factors such as age, smok
 Publications include:
 
 <div class="publications">
-
+  {% bibliography -f papers -q @*[abbr=canresvaping]* %}
   {% bibliography -f papers -q @*[abbr=HPV]* %}
   {% bibliography -f papers -q @*[keywords=qtbc]* %}
   {% bibliography -f papers -q @*[journal=Genome Biology]* %}
