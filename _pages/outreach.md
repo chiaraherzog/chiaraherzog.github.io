@@ -1,16 +1,17 @@
 ---
 layout: page
-title: outreach
+title: media & outreach
 permalink: /outreach/
-description: science writing and public engagement
+description: science writing, public engagement, and media
 nav: true
-display_categories: [events, writing]
+display_categories: [media, events, writing]
 horizontal: false
 nav_order: 7
 ---
 
-i have a keen interest in science communcation, outreach, and education. i believe science shouldn't just be for experts - it affects everyone! 
+i have a keen interest in science communcation, outreach, and education. i believe science shouldn't just be for experts - it affects everyone!
 
+this page features some of my work relating to outreach and science communication as well as (selected) articles and media work in relation to my research.
 
 <div class="projects">
   {% if site.enable_project_categories and page.display_categories %}

@@ -76,13 +76,19 @@
   ],
   "awards": [
     {
+      "title": "AGO Austria Young Scientist Award",
+      "date": "2024-04",
+      "awarder": "AGO Austria",
+      "summary": "The AGO Austria Young Scientist Award is awarded annually to a promising researcher in the area of gynaecology."
+    },
+    {
       "title": "Prof. Brandl Preis",
       "date": "2023-05",
       "awarder": "Prof. Brandl Stiftung",
       "summary": "The Prof. Ernst Brandl Prize is awarded for innovative scientific discoveries that tackle the challenges of our time, and ensure a future worth living. Prof. Brandl discovery orally-available, gastric acid-resistant penicillin, thus saving millions of lives. I was honoured to receive this year’s award for our work on non-invasive womb cancer detection."
     },
     {
-      "title": "Falling Walls Lab Austria Winner (2020)",
+      "title": "Falling Walls Lab Austria Winner",
       "date": "2020-09",
       "awarder": "Falling Walls Lab Austria",
       "summary": "Falling Walls Lab is a world-class pitch competition, networking forum, and stepping stone that brings together a diverse and interdisciplinary pool of students and early-career professionals by providing a stage for breakthrough ideas both globally and locally."
