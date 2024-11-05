@@ -1,9 +1,9 @@
 {
   "basics": {
     "name": "Chiara Herzog",
-    "label": "Scientist",
+    "label": "King's Prize Fellow",
     "image": "",
-    "email": "chiara.herzog@uibk.ac.at",
+    "email": "chiara.herzog@kcl.ac.at",
     "summary": "Computational biologist with a background in molecular medicine working on epigenetics, ageing, and disease prevention.",
     "profiles": [
       {
@@ -14,12 +14,37 @@
     ]
   },
   "work": [
+        {
+      "name": "King's College London",
+      "position": "King's Prize Fellow",
+      "url": "https://www.kcl.ac.uk",
+      "startDate": "2024-11",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Establishing an independent research programm on unlocking the epigenetic code for understanding and diagnosing age-related disease"
+      ]
+    },
+
+    {
+      "name": "European Translational Oncology Prevention and Screening Institute, University of Innsbruck, Innsbruck, Austria",
+      "position": "Senior Scientist/Lecturer",
+      "url": "https://www.eutops.institute",
+      "startDate": "2022-01",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Lead of bioinformatics team",
+        "Co-PI on a lifestyle intervention study for disease prevention",
+        "Teaching and preparation of course materials"
+      ]
+    },
     {
       "name": "European Translational Oncology Prevention and Screening Institute, University of Innsbruck, Innsbruck, Austria",
       "position": "Postdoctoral scientist",
       "url": "https://www.eutops.institute",
       "startDate": "2020-05",
-      "endDate": "",
+      "endDate": "2022-01",
       "summary": "",
       "highlights": [
         "Co-PI on a lifestyle intervention study for disease prevention",
@@ -75,6 +100,12 @@
     }
   ],
   "awards": [
+    {
+      "title": "ÖGMBT Basic Science Award",
+      "date": "2024-09",
+      "awarder": "ÖGMBT",
+      "summary": "Each year, the ÖGMBT awards a basic science award to a young researchers who has published outstanding scientific research papers in the field of life sciences and biotechnology. The Life Sciences Research Award Austria is <b>the most prestigious life sciences award a young researcher working in Austria can win</b>."
+    },
     {
       "title": "AGO Austria Young Scientist Award",
       "date": "2024-04",
