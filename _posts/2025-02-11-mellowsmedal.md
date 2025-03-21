@@ -7,7 +7,8 @@ tags:
 categories: awards
 giscus_comments: false
 related_posts: true
-thumbnail: assets/img/2024boaconf.jpg
+featured: true
+thumbnail: assets/img/mellows-1.jpg
 ---
 
 I'm hugely honoured to receive the **Professor Anthony Mellows Medal** for my research into epigenetics and aging 🏅
