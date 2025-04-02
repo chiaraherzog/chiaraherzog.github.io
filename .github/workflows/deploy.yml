@@ -25,11 +25,12 @@ jobs:
       uses: ruby/setup-ruby@v1
       with:
         ruby-version: '3.2.2'
-        bundler-cache: true
+        bundler-cache: false
     - name: Install and Build 🔧
       run: |
         pip3 install --upgrade jupyter
         npm install -g mermaid.cli
+        bundle install
         export JEKYLL_ENV=production
         bundle exec jekyll build
     - name: Deploy 🚀
