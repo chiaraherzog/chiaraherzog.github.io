@@ -7,6 +7,7 @@ tags: cancer-detection risk-prediction
 categories: papers
 giscus_comments: false
 related_posts: true
+featured: true
 thumbnail: assets/img/bc1.png
 related_publications: MouseMife, BuccalBC, functageingsigs
 ---
