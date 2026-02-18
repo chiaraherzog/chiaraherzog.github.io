@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: past and present work
+description: past and present work. my most recent work is at herzog-lab.com
 nav: true
 nav_order: 2
 display_categories: [ongoing, past]
