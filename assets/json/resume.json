@@ -1,9 +1,9 @@
 {
   "basics": {
     "name": "Chiara Herzog",
-    "label": "King's Prize Fellow",
+    "label": "Group Leader & Assistant Research Professor",
     "image": "",
-    "email": "chiara.herzog@kcl.ac.uk",
+    "email": "ch2151 [at] cam.ac.uk",
     "summary": "Computational biologist with a background in molecular medicine working on epigenetics, ageing, and disease prevention.",
     "profiles": [
       {
@@ -14,12 +14,23 @@
     ]
   },
   "work": [
+            {
+      "name": "Cambridge Stem Cell Institute, University of Cambridge",
+      "position": "Group Leader, Assistant Research Professor",
+      "url": "https://www.herzog-lab.com",
+      "startDate": "2026-05",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Group leader of epigenetics, ageing, and stem cell laboratory."
+      ]
+    },
         {
       "name": "King's College London",
       "position": "King's Prize Fellow",
       "url": "https://www.kcl.ac.uk",
       "startDate": "2024-11",
-      "endDate": "",
+      "endDate": "2026-05",
       "summary": "",
       "highlights": [
         "Establishing an independent research programm on unlocking the epigenetic code for understanding and diagnosing age-related disease"
